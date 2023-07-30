@@ -1,0 +1,14 @@
+"The only way to achieve the impossible is to believe it is possible." - Charles Kingsleigh
+"Believe you can, and you're halfway there." - Theodore Roosevelt
+"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
+## to run
+./display_quote.sh
+
+## to run every ten minute
+
+crontab -e
+##
+*/10 * * * * /path/to/display_quote.sh
+
