@@ -12,3 +12,6 @@ crontab -e
 ##
 */10 * * * * /path/to/display_quote.sh
 
+# link
+https://linuxconfig.org/how-to-send-desktop-notifications-using-notify-send
+
